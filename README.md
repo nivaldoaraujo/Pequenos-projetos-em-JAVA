@@ -18,7 +18,7 @@
 
 #### Utilize o git para clonar o repositório e utilize o compilador javac para criar o binário:
 
-    git clone https://github.com/Wolfterro/Projetos-em-Java.git
+    git clone https://github.com/nivaldoaraujo/Pequenos-projetos-em-JAVA.git
     cd Projetos-em-Java/CalculoIMC
     javac CalculoIMC.java
     java CalculoIMC
@@ -35,5 +35,5 @@
 
 #### Utilize o git para clonar o repositório:
 
-    git clone https://github.com/Wolfterro/Projetos-em-Java.git
+    git clone https://github.com/nivaldoaraujo/Pequenos-projetos-em-JAVA.git
     cd "Projetos-em-Java/Classes de Ajuda"
